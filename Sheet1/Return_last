@@ -1,0 +1,8 @@
+import java.util.*;
+class Return_last
+{
+    public int lastDigitOf(int input1){
+       
+        return Math.abs(input1 % 10);
+    }
+}
